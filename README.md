@@ -1,5 +1,5 @@
 
-++Problem with Exercise 1, Section 2:++
+## Problem with Exercise 1, Section 2:
 
 After defining 'create_line_geom(points)' (At "2: Create a function called create_line_geom()..."), the first assert, ..."Input should be a list", is triggered.
 I get the error, "TypeError: 'list' object is not callable".  I wasn't sure if I should validate the assert list with '[]' (l = [] / type(points) == l, 
