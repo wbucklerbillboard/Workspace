@@ -16,8 +16,10 @@ I get the error, "TypeError: 'list' object is not callable".  I wasn't sure if I
     
 The following exerpts provide background on the exercise, and composing the assert list part of the 'create_line_geom()' function:
 
-   (1) The lesson that the exercise is derived from:  https://autogis-site.readthedocs.io/en/latest/lessons/lesson-1/geometry-objects.html
+   (1) Exercise page: https://autogis-site.readthedocs.io/en/latest/lessons/lesson-1/exercise-1.html
 
-   (2) Assertions: https://geo-python-site.readthedocs.io/en/latest/notebooks/L6/gcp-5-assertions.html
+   (2) The lesson that the exercise is derived from:  https://autogis-site.readthedocs.io/en/latest/lessons/lesson-1/geometry-objects.html
+
+   (3) Assertions: https://geo-python-site.readthedocs.io/en/latest/notebooks/L6/gcp-5-assertions.html
 
 
