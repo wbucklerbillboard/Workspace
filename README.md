@@ -14,11 +14,10 @@ I get the error, "TypeError: 'list' object is not callable".  I wasn't sure if I
     create_line_geom(line1)    
     
     
-The following exerpts provide advice on composing the assert list part of the 'create_line_geom()' function:
+The following exerpts provide background on the exercise, and composing the assert list part of the 'create_line_geom()' function:
 
-(1) Inside the function, you should first check with assert -functionality that the input is a list (see lesson 6 from the Geo-Python course and hints for this exercise).
-If something else than a list is passed for the function, you should return an Error message: "Input should be a list!"
+   (1) The lesson that the exercise is derived from:  https://autogis-site.readthedocs.io/en/latest/lessons/lesson-1/geometry-objects.html
 
-(2) The lesson that the exercise is derived from:  https://autogis-site.readthedocs.io/en/latest/lessons/lesson-1/geometry-objects.html
+   (2) Assertions: https://geo-python-site.readthedocs.io/en/latest/notebooks/L6/gcp-5-assertions.html
 
-(3) The background on assert:  https://geo-python-site.readthedocs.io/en/latest/notebooks/L6/gcp-5-assertions.html
+
